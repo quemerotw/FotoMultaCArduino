@@ -1,0 +1,9 @@
+// Espera 0 segundos, envía paquete con QTY
+wait 0 sec
+04 41 42 43
+//OTRO EJEMPLO (COMENTADO)
+// Espera 0 milisegundos, envía paquete "def" (directamente escribiendo caracteres ascii)
+//wait 0 ms
+//"def"
+//wait 2 sec
+

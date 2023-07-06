@@ -1,0 +1,11 @@
+// wait for 0 seconds, then packet "abc"
+wait 1 ms
+FE 07 02 03 80 47 D1
+wait 1 sec
+FE 07 02 03 80 42 CC
+wait 1 sec
+FE 07 02 03 80 43 CD
+wait 1 sec
+FE 07 02 03 80 44 CE
+
+
